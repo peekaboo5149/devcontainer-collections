@@ -1,12 +1,5 @@
 # Devcontainer Collections
 
-##
+## **_Flutter_**
 
-    This repo contains collections of devcontainers
-    for vscode development
-
-###
-
-    Change Branch to specific enviorment and add .decontainer as git submodule
-
-##### **STILL IN DEVELOPMENT**
+    git submodule https://github.com/peekaboo5149/devcontainer-collections.git .devcontainer
